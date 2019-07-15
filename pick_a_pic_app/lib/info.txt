@@ -1,0 +1,9 @@
+Files needed to be created or changed
+
+Used flutter and android studio to create app
+
+App uses JSon http data to show pics when the + button is pressed on app
+Json files can add up to 4999 pics to app
+
+the files listed here are the only ones created and added. 
+
