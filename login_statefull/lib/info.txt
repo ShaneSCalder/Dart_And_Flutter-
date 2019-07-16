@@ -1,0 +1,7 @@
+create to show how to create a login for a flutter app.
+
+only files included are the files needed outside of the generated files.
+Flutter
+Dart
+Used android studio to create
+tested on a Nexus 5 
